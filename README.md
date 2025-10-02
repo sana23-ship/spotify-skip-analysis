@@ -1,4 +1,4 @@
-
+----------------------
 # Spotify EDA Project
 
 This repository contains an exploratory data analysis (EDA) of a Spotify listening sessions dataset. The aim is to understand user behavior, with a particular focus on the factors influencing track skipping.
